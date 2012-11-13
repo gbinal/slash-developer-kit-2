@@ -22,38 +22,36 @@ As agency API efforts become more complex and developers grow more dependent on 
 As agency and third-party developers consume the APIs in new projects, there is substantial value in highlighting the growing list of mobile and desktop applications that have been built on top of them.  Highlighting these products rewards adoption, promotes further creative work, and raises awareness about the returns on investment for the APIs.  This can often be done simply with links, descriptions, and screenshots.  
 
 ##Link to Open Source Projects
-An agency's open source projects often relate to their API efforts and have similar potential customers.  Several components for 
+An agency's open source projects often relate to their API efforts and have similar potential customers.  Both SourceForge and GitHub offer [federal-friendly terms of service](http://www.howto.gov/web-content/resources/tools/terms-of-service-agreements/negotiated-terms-of-service-agreements), though GitHub has gained higher adoption due to its feature set, widespread popularity, and ease of use.  By offering more components of your agency's API packages as repositories online, you support faster developer adoption.
 
+
+##Link to Agency Data Hub
+An agency's static data is also of interest to developers both for direct use and also to inspire further ideas about what mashups are possible with the agency's APIs.  Including a link to the agency's public data catalog is a simple but important addition to the developer homepage.  
+
+##Links to Other Relevant Sections
+Each agency's web presence offers different material that may be of interest to potential developers, such as a Maps hub or Open Government page.  Including these links on the developer homepage provides grows the cross-ties between the teams behind each esections and helps site visitors to more readily understand the wider context of the agency's offerings and strategic direction.  
+
+#Blog/Microblog
+In order to deepen both interest and trust in your agency's API efforts, the developer outreach should include announcments and updates 
+
+
+
+##Public Feedback Mechanism
+Having a set of front-facing feedback mechanisms promotes an open and productive relationship between public developers and the agency.  When used to supplement other feedback mechanisms, this approach encourages greater public interest,
+promotes a better agency response, and fosters ideation among the public.  Two important questions that warrant individual prompts include feedback on existing APIs and requests for new APIs.  This ensures that you have clear direction from those who use your APIs.  
+
+Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of service](http://www.howto.gov/web-content/resources/tools/terms-of-service-agreements/negotiated-terms-of-service-agreements) and provide robust ideation platforms for public feedback.  For a lighter weight implementation, you can use the similarly gov-friendly Disqus commenting platform to embed commenting functionality within a page that you host expressly for this purpose.  For an even simpler setup, you can author a series of 'open thread' blog posts that each encourage public feedback to a specific prompt and then link to those posts from the developer hub as a means of driving public feedback.  
 
 ##Developer mailing list/group
 
 ##Email Signup
 
-##Feedback Mechanism (front facing)
-
-##Bugs
-
-##Formats
-
-##Requested APIs
-
-
-##Vote up/down next targets for APIs  
-
-
-##Blog Stream or own blog
 
 ##Forum
 
 ##wiki
 
 ##FAQ
-
-##link to github
-
-##link to /data
-
-##link to /maps, /open, or otherimportant sections
 
 ##link to other developer hubs
 
