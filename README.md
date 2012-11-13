@@ -18,10 +18,12 @@ A terms of service (ToS) provides the legal framework by which the API provider 
 ##Status Dashboard
 As agency API efforts become more complex and developers grow more dependent on the services, the status of each service becomes increasingly important.  The goal of such a dashboard is to provide information on the current status of each API as well as planned future status changes (e.g., downtime during a system upgrade).  The dashboard can be manually maintained, with upcoming or current system updates written out.  A straightforward application can also be used to check the server response codes for each API on a regular basis (~every 5 minutes) and automatically change an API's status on the dashboard.  This has the benefit of ensuring quick updates for developers, whose applications may rely on this news.  Even with an automated dashboard, there is also a need for the API producer to provide human updates in the event of downtime in order to communicate with interested developers.  
 
+##Apps Gallery
+As agency and third-party developers consume the APIs in new projects, there is substantial value in highlighting the growing list of mobile and desktop applications that have been built on top of them.  Highlighting these products rewards adoption, promotes further creative work, and raises awareness about the returns on investment for the APIs.  This can often be done simply with links, descriptions, and screenshots.  
 
+##Link to Open Source Projects
+An agency's open source projects often relate to their API efforts and have similar potential customers.  Several components for 
 
-
-Communication
 
 ##Developer mailing list/group
 
@@ -35,9 +37,6 @@ Communication
 
 ##Requested APIs
 
-##Report apps built by
-
-##App gallery
 
 ##Vote up/down next targets for APIs  
 
