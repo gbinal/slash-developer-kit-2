@@ -18,7 +18,16 @@ A terms of service (ToS) provides the legal framework by which the API provider 
 .Gov Examples:
 * [Department of Labor](http://developer.dol.gov/terms-of-service.htm)
 * [Census Bureau](http://www.census.gov/developers/tos/terms.html)
+* [Energy Information Administration](http://www.eia.gov/beta/api/tos.cfm)
+* [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/tou.page?cid=1140526)
+* [Federal Communications Commission](http://www.fcc.gov/developers/api-terms-of-service)
+* [National Institute on Drug Abuse](http://www.drugabuse.gov/developers/nmassist/apiterms)
 * []()
+* []()
+
+
+
+
 
 ##Status Dashboard
 As agency API efforts become more complex and developers grow more dependent on the services, the status of each service becomes increasingly important.  The goal of such a dashboard is to provide information on the current status of each API as well as planned future status changes (e.g., downtime during a system upgrade).  The dashboard can be manually maintained, with upcoming or current system updates written out.  A straightforward application can also be used to check the server response codes for each API on a regular basis (~every 5 minutes) and automatically change an API's status on the dashboard.  This has the benefit of ensuring quick updates for developers, whose applications may rely on this news.  Even with an automated dashboard, there is also a need for the API producer to provide human updates in the event of downtime in order to communicate with interested developers.  
@@ -33,7 +42,8 @@ As agency and third-party developers consume the APIs in new projects, there is 
 
 .Gov Examples:
 * [Census Bureau](http://www.census.gov/developers/apps/)
-* []()
+* [Environmental Protection Agency](http://www.epa.gov/developer/open_source.html)
+* [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/appgall.page?cid=1140526)
 * []()
 
 ##Link to Open Source Projects
@@ -41,8 +51,17 @@ An agency's open source projects often relate to their API efforts and have simi
 
 .Gov Examples:
 * [Department of Labor](http://developer.dol.gov)
+* [Environmental Protection Agency](http://www.epa.gov/developer/open_source.html)
+* [Federal Communications Commission](http://www.fcc.gov/developers#opensource)
+* [Federal Register](https://www.federalregister.gov/developers)
+* [National Archives & Records Administration](http://www.archives.gov/developers/)
 * []()
 * []()
+* []()
+
+
+
+
 
 
 ##Link to Agency Data Hub
@@ -50,13 +69,19 @@ An agency's static data is also of interest to developers both for direct use an
 
 .Gov Examples:
 * [Department of Labor](http://developer.dol.gov)
-* []()
+* [Environmental Protection Agency](http://www.epa.gov/developer/other.html#data_resources)
+* [Federal Communications Commission](http://www.fcc.gov/developers)
 * []()
 
 ##Links to Other Relevant Sections
 Each agency's web presence offers different material that may be of interest to potential developers, such as a Maps hub or Open Government page.  Including these links on the developer homepage provides grows the cross-ties between the teams behind each esections and helps site visitors to more readily understand the wider context of the agency's offerings and strategic direction.  
 
 .Gov Examples:
+* [Environmental Protection Agency](http://www.epa.gov/developer/)
+* [Federal Communications Commission](http://www.fcc.gov/developers)
+* [National Archives & Records Administration](http://www.archives.gov/developers/)
+* [National Library of Medicine](http://www.nlm.nih.gov/api/)
+* []()
 * []()
 * []()
 * []()
@@ -66,7 +91,7 @@ In order to deepen both interest and trust in your agency's API efforts, your ag
 
 .Gov Examples:
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/community)
-* []()
+* [Federal Communications Commission](http://www.fcc.gov/developers)
 * []()
 
 ##Public Feedback Mechanism
@@ -77,8 +102,8 @@ Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of se
 
 .Gov Examples:
 * [Census Bureau](http://apiforum.ideascale.com/)
-* [National Renewable Energy Laboratory](http://developer.nrel.gov/doc/api/georeserv/service/incentives#comments)
-* []()
+* [Energy Information Administration](http://www.eia.gov/beta/api/#)
+* [National Renewable Energy Laboratory](http://developer.nrel.gov/doc/api/alt-fuel-stations/v1#comments)
 * []()
 
 ##Developer mailing list/group
@@ -86,7 +111,8 @@ By offering visitors the ability to subscribe to emails about your developer out
 
 .Gov Examples:
 * [Department of Labor](http://developer.dol.gov/ContactUs.htm)
-* []()
+* [Environmental Protection Agency](http://www.epa.gov/developer/)
+* [Federal Communications Commission](http://www.fcc.gov/developers)
 * []()
 
 ##Forum
@@ -110,6 +136,8 @@ Any common questions that developers ask may reflect confusion held by other pot
 
 .Gov Examples:
 * [Department of Labor](http://developer.dol.gov/faq.htm)
+* [Environmental Protection Agency](http://www.epa.gov/developer/site_for_you.html#faq)
+* [Federal Aviation Administration](http://services.faa.gov/docs/faq/)
 * []()
 * []()
 
@@ -120,6 +148,9 @@ Much of the value of government data exists when it is integrated with other gov
 .Gov Examples:
 * [Department of Energy](http://energy.gov/developer-resources)
 * [Department of Labor](http://developer.dol.gov)
+* [Environmental Protection Agency](http://www.epa.gov/developer/other.html)
+* [Federal Communications Commission](http://www.fcc.gov/developers)
+* [National Archives & Records Administration](http://www.archives.gov/developers/)
 * []()
 * []()
 
@@ -135,7 +166,7 @@ In order to highlight other opensource development in government, you can also l
 Depending on the audience for your developer section, it is often useful to include links to basic reading material that explains what APIs are and gives access to educational resources that fit those who may just be getting started with APIs.  
 
 .Gov Examples:
-* []()
+* [Federal Aviation Administration](http://services.faa.gov/)
 * []()
 * []()
 
@@ -147,5 +178,6 @@ Developers still need to have the ability to contact agency staff directly and f
 .Gov Examples:
 * [Department of Energy](http://energy.gov/developer-resources)
 * [Department of Labor](http://developer.dol.gov/ContactUs.htm)
+* [National Broadband Map] (http://broadbandmap.gov/developer)
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/community)
 
