@@ -32,9 +32,7 @@ An agency's static data is also of interest to developers both for direct use an
 Each agency's web presence offers different material that may be of interest to potential developers, such as a Maps hub or Open Government page.  Including these links on the developer homepage provides grows the cross-ties between the teams behind each esections and helps site visitors to more readily understand the wider context of the agency's offerings and strategic direction.  
 
 #Blog/Microblog
-In order to deepen both interest and trust in your agency's API efforts, your agency's developer outreach should include program updates such as announcments of new initiatives and program updates such as planned downtime.  Depending on how much information 
-
-
+In order to deepen both interest and trust in your agency's API efforts, your agency's developer outreach should include program updates such as announcments of new initiatives and program updates such as planned downtime.  Depending on how much information the agency is generating, it may be better to create a category on the agency blog that distinguishes these posts or an entire independent agency blog to house the material.  Regardless, it is best to link directly to the cateogry or blog from the developer hub.  Similarly, your team may prefer to set up a standalone twitter account for the API and developer announcements, either as a complement to a blog (category)or in lieu of it.  An important aspect to each of these models, though, is the ability of developers to subscribe or otherwise follow a reliable channel for news that impacts their development efforts.  
 
 ##Public Feedback Mechanism
 Having a set of front-facing feedback mechanisms promotes an open and productive relationship between public developers and the agency.  When used to supplement other feedback mechanisms, this approach encourages greater public interest,
@@ -43,28 +41,29 @@ promotes a better agency response, and fosters ideation among the public.  Two i
 Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of service](http://www.howto.gov/web-content/resources/tools/terms-of-service-agreements/negotiated-terms-of-service-agreements) and provide robust ideation platforms for public feedback.  For a lighter weight implementation, you can use the similarly gov-friendly Disqus commenting platform to embed commenting functionality within a page that you host expressly for this purpose.  For an even simpler setup, you can author a series of 'open thread' blog posts that each encourage public feedback to a specific prompt and then link to those posts from the developer hub as a means of driving public feedback.  
 
 ##Developer mailing list/group
-
-##Email Signup
-
+By offering visitors the ability to subscribe to emails about your developer outreach, you can build an email list that supports a quick and convenient means of publicizing new projects and API updates.  This functionality can be easily assembled in the same fashion as any other email collection webform.  Alternatively, you could create an email group or listserve either using inhouse resources or third party solutions such as Google Groups or Yahoo Groups.  An advantage of this model is that it allows developers to more readily interact with each other.  
 
 ##Forum
+Providing a public user forum can complement other tools to provide a well-rounded collaboration and feedback environment for developers.   
 
-##wiki
+##Wiki
+Wikis provide a scalable and robust platform for your developers and site visitors.  By providing a wiki and using it yourself to publish and collaborate on material, you deepen the potential of your developer community and encourage adoption.  In addition to numerous free and opensource solutions for wikis, two no-hassle options include the wiki functionality built into GitHub repositories as well as wiki.data.gov (publicly visible, but editable by anyone with a .gov email address).  By creating a GitHub repo specifically for developer hub functionality (such as [Issue Tracking and Roadmaps](https://github.com/gbinal/api-release-kit/blob/master/README.md#issue-tracker)), you can also employ the built-in wiki functionality to offer a platform already integrated and readily available through the very popular social network for developers.  
 
 ##FAQ
+Any common questions that developers ask may reflect confusion held by other potential users that turned away. Maintaining a simple list of frequently asked questions and answers provides a simple utility today as well as a good catch-all for future disclaimers and loose information that may come to mind in the future.  Depending on your needs, this section might work better at the developer hub level or on an individual basis for single APIs.  
 
-##link to other developer hubs
 
-##link to all gov github accounts
+##Link to Other Agency Developer Hubs
+Much of the value of government data exists when it is integrated with other government data.  As more agencies launch developer hubs, it is useful for each to link to the others.  One possibility is to link to each of them individually ([embed code available here](github.com/gsa/slash-developer-pages)), or simply link to the GSA [repository](github.com/gsa/slash-developer-pages) that includes the up to date list.  New hubs are regularly added, thus creating more pages that link to your hub at an ever increasing rate.  
 
-##Video Tutorials
+##Link to all gov github accounts
+In order to highlight other opensource development in government, you can also link to the growing list of [repositories from all .gov GitHub accounts](gsa.github.com/federal-open-source-repos/).  
 
-##Twitter Account
+##Link to Basic API Information
+Depending on the audience for your developer section, it is often useful to include links to basic reading material that explains what APIs are and gives access to educational resources that fit those who may just be getting started with APIs.  
 
-##Link to What are APIs? 
 
 ##PoC
-
-
+Developers still need to have the ability to contact agency staff directly and for this purpose, it is important to offer contact information for a developers' point of contact. This is often done at the agency level by creating an email account at developer@agency.gov and forwarding it to one or several staff who work together to field the incoming messages. The same contact information can then be published at the developer hub level or at each API page.  
 
 
