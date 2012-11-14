@@ -32,7 +32,7 @@ An agency's static data is also of interest to developers both for direct use an
 Each agency's web presence offers different material that may be of interest to potential developers, such as a Maps hub or Open Government page.  Including these links on the developer homepage provides grows the cross-ties between the teams behind each esections and helps site visitors to more readily understand the wider context of the agency's offerings and strategic direction.  
 
 #Blog/Microblog
-In order to deepen both interest and trust in your agency's API efforts, the developer outreach should include announcments and updates 
+In order to deepen both interest and trust in your agency's API efforts, your agency's developer outreach should include program updates such as announcments of new initiatives and program updates such as planned downtime.  Depending on how much information 
 
 
 
