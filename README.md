@@ -22,8 +22,8 @@ A terms of service (ToS) provides the legal framework by which the API provider 
 * [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/tou.page?cid=1140526)
 * [Federal Communications Commission](http://www.fcc.gov/developers/api-terms-of-service)
 * [National Institute on Drug Abuse](http://www.drugabuse.gov/developers/nmassist/apiterms)
-* []()
-* []()
+* [HealthFinder.gov](http://healthfinder.gov/developers/Term_of_Use.aspx)
+* [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)
 
 
 
@@ -44,7 +44,7 @@ As agency and third-party developers consume the APIs in new projects, there is 
 * [Census Bureau](http://www.census.gov/developers/apps/)
 * [Environmental Protection Agency](http://www.epa.gov/developer/open_source.html)
 * [Federal Motor Carrier Safety Administration](https://mobile.fmcsa.dot.gov/developer/appgall.page?cid=1140526)
-* []()
+* [USA.gov](http://www.usa.gov/About/developer-resources/1usagov.shtml#projects)
 
 ##Link to Open Source Projects
 An agency's open source projects often relate to their API efforts and have similar potential customers.  Both SourceForge and GitHub offer [federal-friendly terms of service](http://www.howto.gov/web-content/resources/tools/terms-of-service-agreements/negotiated-terms-of-service-agreements), though GitHub has gained higher adoption due to its feature set, widespread popularity, and ease of use.  By offering more components of your agency's API packages as repositories online, you support faster developer adoption.
@@ -55,8 +55,8 @@ An agency's open source projects often relate to their API efforts and have simi
 * [Federal Communications Commission](http://www.fcc.gov/developers#opensource)
 * [Federal Register](https://www.federalregister.gov/developers)
 * [National Archives & Records Administration](http://www.archives.gov/developers/)
-* []()
-* []()
+* [White House](http://www.whitehouse.gov/developers)
+* [HealthData.gov](http://www.healthdata.gov/developer)
 * []()
 
 
@@ -71,6 +71,7 @@ An agency's static data is also of interest to developers both for direct use an
 * [Department of Labor](http://developer.dol.gov)
 * [Environmental Protection Agency](http://www.epa.gov/developer/other.html#data_resources)
 * [Federal Communications Commission](http://www.fcc.gov/developers)
+* [HealthData.gov](http://www.healthdata.gov/developer)
 * []()
 
 ##Links to Other Relevant Sections
@@ -81,6 +82,7 @@ Each agency's web presence offers different material that may be of interest to 
 * [Federal Communications Commission](http://www.fcc.gov/developers)
 * [National Archives & Records Administration](http://www.archives.gov/developers/)
 * [National Library of Medicine](http://www.nlm.nih.gov/api/)
+* [HealthData.gov](http://www.healthdata.gov/developer)
 * []()
 * []()
 * []()
@@ -92,7 +94,8 @@ In order to deepen both interest and trust in your agency's API efforts, your ag
 .Gov Examples:
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/community)
 * [Federal Communications Commission](http://www.fcc.gov/developers)
-* []()
+* [HealthData.gov](http://www.healthdata.gov/developer)
+* [HealthIndicators.gov](http://healthindicators.gov/Developers/)
 
 ##Public Feedback Mechanism
 Having a set of front-facing feedback mechanisms promotes an open and productive relationship between public developers and the agency.  When used to supplement other feedback mechanisms, this approach encourages greater public interest,
@@ -104,6 +107,7 @@ Uservoice, Ideascale , and Dialogue App each offer [federal-friendly terms of se
 * [Census Bureau](http://apiforum.ideascale.com/)
 * [Energy Information Administration](http://www.eia.gov/beta/api/#)
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/doc/api/alt-fuel-stations/v1#comments)
+* [HealthData.gov](http://www.healthdata.gov/developer)
 * []()
 
 ##Developer mailing list/group
@@ -113,7 +117,7 @@ By offering visitors the ability to subscribe to emails about your developer out
 * [Department of Labor](http://developer.dol.gov/ContactUs.htm)
 * [Environmental Protection Agency](http://www.epa.gov/developer/)
 * [Federal Communications Commission](http://www.fcc.gov/developers)
-* []()
+* [USA.gov](http://www.usa.gov/developers)
 
 ##Forum
 Providing a public user forum can complement other tools to provide a well-rounded collaboration and feedback environment for developers.   
@@ -138,8 +142,9 @@ Any common questions that developers ask may reflect confusion held by other pot
 * [Department of Labor](http://developer.dol.gov/faq.htm)
 * [Environmental Protection Agency](http://www.epa.gov/developer/site_for_you.html#faq)
 * [Federal Aviation Administration](http://services.faa.gov/docs/faq/)
-* []()
-* []()
+* [HealthData.gov](http://www.healthdata.gov/developer)
+* [HealthFinder.gov](http://healthfinder.gov/developers/FAQ.aspx)
+* [HealthIndicators.gov](http://healthindicators.gov/Resources/FAQ)
 
 
 ##Link to Other Agency Developer Hubs
@@ -167,7 +172,7 @@ Depending on the audience for your developer section, it is often useful to incl
 
 .Gov Examples:
 * [Federal Aviation Administration](http://services.faa.gov/)
-* []()
+* [HealthFinder.gov](http://healthfinder.gov/developers/How_to_Use.aspx)
 * []()
 
 
@@ -180,4 +185,6 @@ Developers still need to have the ability to contact agency staff directly and f
 * [Department of Labor](http://developer.dol.gov/ContactUs.htm)
 * [National Broadband Map] (http://broadbandmap.gov/developer)
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/community)
+* [U.S. Courts - PACER](http://www.pacer.gov/cmecf/developer/)
+
 
