@@ -4,14 +4,20 @@
 ##Homepage 
 The API efforts of any agency should all be accessible via one easy to reach developers hub.  This web page should provide a path to all public APIs and any associated resources.  Once an agency has begun to publish multiple APIs, certain resources may make sense to be specific to each API whereas others may make sense to be provided more generally for all of the agency's APIs.  The major elements of the overall developer homepage are: a catalog of and links to available APIs, any communal elements that apply to all of the APIs, and links to non-API resources that may also be of use to developers.  Agency.gov/developer, agency.gov/developers, and agency.gov/api should either be the direct url for the page or should redirect to the page.  
 
+
+*Your team should decide which of the following elements to include in your developer hub, recognizing that ensuring a well-rounded and fully functional developer experience is the best recipe for your APIs' success. The below list represents elements for you to assemble in order to deliver just such an experience. Examples and suggested tools are included and can be readily copied and improved upon between agencies.*
+
+
 ##Welcome
 A brief welcome message can be used to provide context for the agency's mission and the role of developer outreach within it.  Your agency can set an appropriate and respectable standard by using this section to announce that the developer hub is the accumulation of the agency's current API offerings and that developers can return to find future APIs as they are posted there as well.  
 
 ##Catalog of APIs
-The most important element of a developer hub is access to each of the APIs.  Usually, this takes the form of links along with a brief description.  Over time, it is preferable to standardize the individual API homepages into consistent developers subsections; however, many agencies begin by simply linking to the API homepages regardless of their location and styling within the agency's web presence.  Alternatively, several free and open source options exist that support a well-rounded catalog for the APIs.  
+The most important element of a developer hub is access to each of the APIs.  Usually, this takes the form of links along with a brief description.  Over time, it is preferable to standardize the individual API homepages into consistent developers subsections; however, many agencies begin by simply linking to the API homepages regardless of their location and styling within the agency's web presence.  Alternatively, several free and open source options exist that provide additional catalog functionality.
 
 ##Terms of Service
-A terms of service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know.  Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary.  Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification.  This is a particularly good area to review the Terms of Service of other government APIs and consider re-using their material instead of starting from scratch.
+A terms of service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know.  Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary.  Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification.  
+
+This is a particularly good area to review the Terms of Service of other government APIs and consider re-using their material instead of starting from scratch. This element is often composed of static page content.  
 
 **.Gov Examples:**
 * [Department of Labor](http://developer.dol.gov/terms-of-service.htm)
@@ -23,18 +29,15 @@ A terms of service (ToS) provides the legal framework by which the API provider 
 * [HealthFinder.gov](http://healthfinder.gov/developers/Term_of_Use.aspx)
 * [USA.gov](http://www.usa.gov/About/developer-resources/terms-of-service.shtml)
 
-
-
-
-
 ##Status Dashboard
 As agency API efforts become more complex and developers grow more dependent on the services, the status of each service becomes increasingly important.  The goal of such a dashboard is to provide information on the current status of each API as well as planned future status changes (e.g., downtime during a system upgrade).  The dashboard can be manually maintained, with upcoming or current system updates written out.  A straightforward application can also be used to check the server response codes for each API on a regular basis (~every 5 minutes) and automatically change an API's status on the dashboard.  This has the benefit of ensuring quick updates for developers, whose applications may rely on this news.  Even with an automated dashboard, there is also a need for the API producer to provide human updates in the event of downtime in order to communicate with interested developers.  
 
-**.Gov Examples:**
-* []()
+
 
 ##Apps Gallery
-As agency and third-party developers consume the APIs in new projects, there is substantial value in highlighting the growing list of mobile and desktop applications that have been built on top of them.  Highlighting these products rewards adoption, promotes further creative work, and raises awareness about the returns on investment for the APIs.  This can often be done simply with links, descriptions, and screenshots.  
+As agency and third-party developers consume the APIs in new projects, there is substantial value in highlighting the growing list of mobile and desktop applications that have been built on top of them.  Highlighting these products rewards adoption, promotes further creative work, and raises awareness about the returns on investment for the APIs.  
+
+This element is often composed of static page content such as links, descriptions, and screenshots.  
 
 **.Gov Examples:**
 * [Census Bureau](http://www.census.gov/developers/apps/)
@@ -53,10 +56,6 @@ An agency's open source projects often relate to their API efforts and have simi
 * [National Archives & Records Administration](http://www.archives.gov/developers/)
 * [White House](http://www.whitehouse.gov/developers)
 * [HealthData.gov](http://www.healthdata.gov/developer)
-
-
-
-
 
 
 ##Link to Agency Data Hub
@@ -111,15 +110,9 @@ By offering visitors the ability to subscribe to emails about your developer out
 ##Forum
 Providing a public user forum can complement other tools to provide a well-rounded collaboration and feedback environment for developers.   
 
-**.Gov Examples:**
-* []()
 
 ##Wiki
 Wikis provide a scalable and robust platform for your developers and site visitors.  By providing a wiki and using it yourself to publish and collaborate on material, you deepen the potential of your developer community and encourage adoption.  In addition to numerous free and opensource solutions for wikis, two no-hassle options include the wiki functionality built into GitHub repositories as well as wiki.data.gov (publicly visible, but editable by anyone with a .gov email address).  By creating a GitHub repo specifically for developer hub functionality (such as [Issue Tracking and Roadmaps](https://github.com/gbinal/api-release-kit/blob/master/README.md#issue-tracker)), you can also employ the built-in wiki functionality to offer a platform already integrated and readily available through the very popular social network for developers.  
-
-**.Gov Examples:**
-* []()
-
 
 ##FAQ
 Any common questions that developers ask may reflect confusion held by other potential users that turned away. Maintaining a simple list of frequently asked questions and answers provides a simple utility today as well as a good catch-all for future disclaimers and loose information that may come to mind in the future.  Depending on your needs, this section might work better at the developer hub level or on an individual basis for single APIs.  
