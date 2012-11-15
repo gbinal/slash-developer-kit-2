@@ -12,7 +12,13 @@ The API efforts of any agency should all be accessible via one easy to reach dev
 A brief welcome message can be used to provide context for the agency's mission and the role of developer outreach within it.  Your agency can set an appropriate and respectable standard by using this section to announce that the developer hub is the accumulation of the agency's current API offerings and that developers can return to find future APIs as they are posted there as well.  
 
 ##Catalog of APIs
-The most important element of a developer hub is access to each of the APIs.  Usually, this takes the form of links along with a brief description.  Over time, it is preferable to standardize the individual API homepages into consistent developers subsections; however, many agencies begin by simply linking to the API homepages regardless of their location and styling within the agency's web presence.  Alternatively, several free and open source options exist that provide additional catalog functionality.
+The most important element of a developer hub is access to each of the APIs.  Usually, this takes the form of links along with a brief description.  Over time, it is preferable to standardize the individual API homepages into consistent developers subsections; however, many agencies begin by simply linking to the API homepages regardless of their location and styling within the agency's web presence.  Alternatively, several free and open source options exist that provide additional catalog functionality, listed below.
+
+**Potential Tools:**
+* [APIGrove](http://apigrove.github.com/apigrove/)
+* [Google APIs Explorer](http://code.google.com/p/google-apis-explorer/)
+* [WSO2 API Manager](http://wso2.com/products/api-manager/)
+
 
 ##Terms of Service
 A terms of service (ToS) provides the legal framework by which the API provider conveys any rules or regulations that developers need to know.  Developers agree to the terms set out in the ToS by their use of the API itself and thus enable the API producer to regulate use of their API if necessary.  Common elements include but are not limited to attribution, modification, false representation, right to limit, right to terminate, and indemnification.  
